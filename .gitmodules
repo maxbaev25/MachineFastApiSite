@@ -1,3 +1,6 @@
 [submodule "ForkTestProxyForTG"]
 	path = ForkTestProxyForTG
 	url = git@github.com:maxbaev25/ForkTestProxyForTG.git
+[submodule "ForkTestProxyForTG"]
+	path = ForkTestProxyForTG
+	url = https://github.com/maxbaev25/TgCcpkBot.git
